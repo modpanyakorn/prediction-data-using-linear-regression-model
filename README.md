@@ -18,7 +18,7 @@ scikit-learn
 
 ## Installation Module
 
-Use the package manager [pip](https://pypi.org/) to install foobar.
+Use the package manager [pip](https://pypi.org/) to install module.
 
 ```bash
 pip install module_name
