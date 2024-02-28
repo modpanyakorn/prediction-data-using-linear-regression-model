@@ -7,7 +7,7 @@ I wish you enjoy with my data project.
 
 ## Resource Project
 [Google Drive](https://bit.ly/project_NAJA)
-Knowledge Slide (TH Lang), URL (Build web and Visualize with Streamlit), Python Notebook File (Linear Approximation, Gradient Descent, ML Model with Scikit-Learn)
+Knowledge Slide (TH Lang), URL (Build web and Visualize with Streamlit), IPython Notebook File (Linear Approximation, Gradient Descent, ML Model with Scikit-Learn)
 
 ## Requirements Module
 
