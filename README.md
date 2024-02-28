@@ -5,6 +5,9 @@
 Prediction Data using Linear Regression and Approximation Parameters Values with Least Squares Approximation Method, Gradient Descent Method and Scikit-Learn for Training and Predictive Data,
 I wish you enjoy with my data project.
 
+## Resource Project
+[Google Drive](https://bit.ly/project_NAJA
+Slide Knowledge(TH Lang), URL (Build web and Visualize with Streamlit), File Python Notebook (Linear Approximation, Gradient Descent, ML Model with Scikit-Learn)
 
 ## Requirements Module
 
@@ -29,3 +32,5 @@ pip install module_name
 ## License
 
 [MIT](https://mit-license.org/)
+
+
