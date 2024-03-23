@@ -6,7 +6,7 @@ Prediction Data using Linear Regression and Approximation Parameters Values with
 I wish you enjoy with my data project.
 
 ## Resource Project
-[Google rive](https://bit.ly/project_NAJA)
+[Google Drive](https://bit.ly/project_NAJA)
 Knowledge Slide (TH Lang), URL (Build web and Visualize with Streamlit), IPython Notebook File (Linear Approximation, Gradient Descent, ML Model with Scikit-Learn)
 
 ## Requirements Module
